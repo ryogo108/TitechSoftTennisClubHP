@@ -1,0 +1,24 @@
+#album .foot:after{
+  content: "";
+  clear: both;
+  display: block;
+}
+#album a.back{
+  float: right;
+}
+#album .album:after{
+  content: "";
+  clear: both;
+  display: block;
+}
+#album .album img{
+  width:315px;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+#album .album img:nth-child(3n+1){
+  margin-left: 0;
+}
+#album .album img:nth-child(-n+3){
+  margin-top: 0;
+}

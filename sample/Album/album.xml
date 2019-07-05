@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<category dir='2017'>
+		<name>2017年度</name>
+		<content dir='riko_spring'>
+			<name>関東理工科系ソフトテニス春季大会</name>
+			<icon>head.jpg</icon>
+			<memo>
+				<p>6/10-6/11 リーグ戦＠東京理科大学</p>
+				<p>6/17-6/18 個人戦@東工大</p>
+			</memo>
+		</content>
+		<content dir='kanto_spring'>
+			<name>関東学生ソフトテニス春季リーグ戦</name>
+			<icon>head.JPG</icon>
+			<memo>
+				<p>5/6-5/7 @白子</p>
+			</memo>
+		</content>
+	</category>
+	<category dir='2016'>
+		<name>2016年度</name>
+		<content dir='TrainingCamp_spring'>
+			<name>春合宿</name>
+			<icon>head.jpg</icon>
+			<memo><p>3/3-3/7 春合宿@白子</p></memo>
+		</content>
+		<content dir='riko_autum'>
+			<name>関東理工科系大学ソフトテニス秋季大会</name>
+			<icon>head.JPG</icon>
+			<memo>
+				<p>11/26-11/27 リーグ戦＠東京理科大学</p>
+				<p>12/10-12/11 個人戦@東工大</p>
+			</memo>
+		</content>
+		<content dir='kanto_autum'>
+			<name>関東学生ソフトテニス秋季リーグ戦</name>
+			<icon>head.JPG</icon>
+			<memo>
+				<p>11/5-11/6 @白子</p>
+			</memo>
+		</content>
+		<content dir='TrainingCamp_summer'>
+			<name>本合宿</name>
+			<icon>head.jpg</icon>
+			<memo>
+				<p>9/9-9/15 @山中湖</p>
+			</memo>
+		</content>
+	</category>
+</root>
