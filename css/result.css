@@ -1,0 +1,89 @@
+#result .main:after{
+  content: "";
+  clear: both;
+  display: block;
+}
+#result .main .content a p{
+  font-weight: bold;
+  margin: 0;
+}
+#result .main .content a p.record{
+  font-weight: normal;
+  float: right;
+}
+#result .big_menu .content a{
+  padding:5px;
+}
+#result .main .big_menu{
+  float: left;
+  width: 50%;
+}
+#result .main .big_menu .content{
+  margin:30px 15px 0 0;
+}
+#result .main .big_menu .content:first-child{
+  margin-top: 0;
+}
+#result .main .big_menu p.head{
+  margin:0 50px 0 50px;
+  text-align: center;
+  border-bottom: dotted 1px #555555;
+}
+#result .main .big_menu .blank{
+  background-color: #AAA;
+}
+#result table.type01 td.blank{
+  /*background-color: #555;*/
+}
+#result table.type01 td.blank{
+  /*background-color: #888888;*/
+}
+#result table.type01 td.won{
+  /*background-color:#cc0000;
+  color: white;*/
+}
+#result table.type01 td.lost{
+  /*background-color: #0000cc;
+  color: white;*/
+}
+table.type01 {
+  font-size: 14px;
+	border-collapse: collapse;
+	line-height: 1.5;
+}
+table.type01 th {
+	width: 50px;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: top;
+	border: 1px solid #ccc;
+}
+table.type01 tr th:first-child{
+  width: 150px;
+  text-align: left;
+}
+table.type01 td {
+	width: 80px;
+	padding: 10px;
+  text-align: center;
+	vertical-align: top;
+	border: 1px solid #ccc;
+}
+#result .main .record2{
+  width:290px;
+  margin-top:50px;
+  float: left;
+  margin-left: 50px;
+}
+#result .main .record2:nth-child(3n-2){
+  margin-left: 0;
+}
+#result .main .record2:nth-child(-n+3){
+  margin-top: 10px;
+}
+#result .main:after{
+  content: "";
+  display: block;
+  clear: both;
+}
