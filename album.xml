@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+	<category dir='2019'>
+		<name>2019年度</name>
+       <content dir='kanto_spring'>
+			<name>関東学生ソフトテニス春季リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>5/11,12 @白子</p>
+			</memo>
+		</content>
+	</category>
 	<category dir='2018'>
 		<name>2018年度</name>
 		<content dir='riko_autum'>
