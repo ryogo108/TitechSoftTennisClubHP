@@ -2,6 +2,13 @@
 <root>
 	<category dir='2019'>
 		<name>2019年度</name>
+		<content dir='12gunma'>
+			<name>1,2年合宿</name>
+			<icon>random</icon>
+			<memo>
+				<p>8/22,23 @水上</p>
+			</memo>
+		</content>
 		<content dir='riko_spring'>
 			<name>関東理工科系大学ソフトテニス春季大会</name>
 			<icon>random</icon>
