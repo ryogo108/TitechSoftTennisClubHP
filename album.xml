@@ -2,6 +2,13 @@
 <root>
 	<category dir='2019'>
 		<name>2019年度</name>
+		<content dir='matsumoto'>
+			<name>全国国公立大会</name>
+			<icon>random</icon>
+			<memo>
+				<p>9/10-9/12 @松本</p>
+			</memo>
+		</content>
 		<content dir='12gunma'>
 			<name>1,2年合宿</name>
 			<icon>random</icon>
