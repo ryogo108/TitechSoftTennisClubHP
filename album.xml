@@ -2,6 +2,13 @@
 <root>
 	<category dir='2019'>
 		<name>2019年度</name>
+		<content dir='TC_summer'>
+			<name>本合宿</name>
+			<icon>random</icon>
+			<memo>
+				<p>9/16-9/21 @福島</p>
+			</memo>
+		</content>
 		<content dir='matsumoto'>
 			<name>全国国公立大会</name>
 			<icon>random</icon>
