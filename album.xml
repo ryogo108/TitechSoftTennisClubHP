@@ -2,6 +2,13 @@
 <root>
 	<category dir='2019'>
 		<name>2019年度</name>
+		<content dir='kanto_autumn'>
+			<name>関東学生ソフトテニス秋季リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>10/26,27 @東工大</p>
+			</memo>
+		</content>
 		<content dir='TC_summer'>
 			<name>本合宿</name>
 			<icon>random</icon>
