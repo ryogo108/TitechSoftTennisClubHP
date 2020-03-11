@@ -2,7 +2,7 @@
 <!-- saved from url=(0044)http://titsofttennis.sakura.ne.jp/album.html -->
 <html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width>
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Album | 東工大ソフトテニス部</title>
   <link rel="stylesheet" href="./common.css">
