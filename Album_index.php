@@ -50,7 +50,7 @@
 		    }
 	    	$pagePath = "./Album_page.php?"."cate=".$cateDir."&cont=".$contDir;
 echo <<<DOC
-	    <div class="big_menu">
+	    <div class="Album_menu">
 	      <article class="content">
 	        <a href="{$pagePath}">
 	          <div class="contentText">
