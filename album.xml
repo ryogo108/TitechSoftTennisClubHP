@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+	<category dir='2020'>
+		<name>2020年度</name>
+		<content dir='kanto_autumn'>
+			<name>首都リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>11/1 @駿河台大学</p>
+			</memo>
+		</content>
+		<content dir='kanto_autumn'>
+			<name>関東学生ソフトテニス秋季リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>10/17，18 @白子</p>
+			</memo>
+		</content>
+	</category>
 	<category dir='2019'>
 		<name>2019年度</name>
 		<content dir='kanto_autumn'>
