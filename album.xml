@@ -2,11 +2,18 @@
 <root>
 	<category dir='2021'>
 		<name>2021年度</name>
-		<content dir='shuto'>
-			<name>首都リーグ</name>
+		<content dir='riko_autum'>
+			<name>関東学生ソフトテニス秋季リーグ</name>
 			<icon>random</icon>
 			<memo>
-				<p>4/18 @駿河台大学</p>
+				<p>12/4,11,12 @東工大</p>
+			</memo>
+		</content>
+		<content dir='kenshu'>
+			<name>関東研修大会</name>
+			<icon>random</icon>
+			<memo>
+				<p>12/5 @駿河台大学</p>
 			</memo>
 		</content>
 		<content dir='kanto_spring'>
@@ -14,6 +21,13 @@
 			<icon>random</icon>
 			<memo>
 				<p>6/10，11 @白子</p>
+			</memo>
+		</content>
+		<content dir='shuto'>
+			<name>首都リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>4/18 @駿河台大学</p>
 			</memo>
 		</content>
 	</category>
