@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
+	<category dir='2022'>
+		<name>2022年度</name>
+		<content dir='riko_spring'>
+			<name>関東理工科系大学ソフトテニス春季大会</name>
+			<icon>random</icon>
+			<memo>
+				<p>6/18,26 @東工大</p>
+			</memo>
+		</content>
+		<content dir='kanto_spring'>
+			<name>関東学生ソフトテニス春季リーグ</name>
+			<icon>random</icon>
+			<memo>
+				<p>5/8 @白子</p>
+			</memo>
+		</content>
+	</category>
 	<category dir='2021'>
 		<name>2021年度</name>
 		<content dir='riko_autumn'>
